@@ -26,12 +26,6 @@
     "userIcon": ":flag_es:"
   },
   {
-    "name": "RH ΔΛΞXΔNDR",
-    "allyCode": "926873692",
-    "tagIdOnDrop": "565602911581896742",
-    "userIcon": ":flag_ru:"
-  },
-  {
     "name": "Canadafett",    
     "allyCode": "722646324",
     "tagIdOnDrop": "284129888456409095",
@@ -134,6 +128,12 @@
     "allyCode": "233396547",
     "tagIdOnDrop": "689396430808678434",
     "userIcon": ":flag_ro:"
+  },
+  {
+    "name": "RH ΔΛΞXΔNDR",
+    "allyCode": "926873692",
+    "tagIdOnDrop": "565602911581896742",
+    "userIcon": ":flag_ru:"
   },
   {
     "name": "Romulas",    
