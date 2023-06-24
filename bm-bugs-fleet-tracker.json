@@ -68,12 +68,6 @@
     "userIcon": ":flag_de:"
   },
   {
-    "name": "HLG",
-    "allyCode": "527759877",
-    "tagIdOnDrop": "304983853246840834",
-    "userIcon": ":flag_fr:"
-  },
-  {
     "name": "Khrizboh",    
     "allyCode": "124123765",
     "tagIdOnDrop": "428266049734049798",
@@ -191,5 +185,11 @@
     "tagIdOnDrop": "100263265778532352",
     "userIcon": ":flag_nl:",
     "tagIdOnClimb": ""
+  },
+  {
+    "name": "Zenkx",
+    "allyCode": "527759877",
+    "tagIdOnDrop": "304983853246840834",
+    "userIcon": ":flag_fr:"
   }
 ]
