@@ -38,6 +38,12 @@
     "userIcon": ":flag_us:"
   },
   {
+    "name": "EtA megadit",
+    "allyCode": "361447346",
+    "tagIdOnDrop": "584002367326912523",
+    "userIcon": ":flag_ru:"
+  },
+  {
     "name": "Fopam fairchier",
     "allyCode": "341438386",
     "tagIdOnDrop": "581119533318930432",
@@ -78,12 +84,6 @@
     "allyCode": "899536956",
     "tagIdOnDrop": "543418761399500810",
     "userIcon": ":flag_us:"
-  },
-  {
-    "name": "megadit",    
-    "allyCode": "361447346",
-    "tagIdOnDrop": "584002367326912523",
-    "userIcon": ":flag_ru:"
   },
   {
     "name": "Mhann Uhde Adare",    
