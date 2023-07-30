@@ -26,6 +26,13 @@
     "userIcon": ":flag_us:"
   },
   {
+    "name": "Dovahkiin",
+    "allyCode": "427249473",
+    "tagIdOnDrop": "",
+    "userIcon": ":pirate_flag:",
+    "tagIdOnClimb": "&1135302553463177236"
+  },
+  {
     "name": "EtA megadit",
     "allyCode": "361447346",
     "tagIdOnDrop": "584002367326912523",
