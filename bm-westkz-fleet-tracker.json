@@ -70,6 +70,13 @@
     "userIcon": ":flag_ru:"
   },
   {
+    "name": "Davados",
+    "allyCode": "383864533",
+    "tagIdOnDrop": "",
+    "userIcon": ":pirate_flag:",
+    "tagIdOnClimb": "&1102944537736904724"
+  },
+  {
     "name": "DrunkenMаster",
     "allyCode": "972695926",
     "tagIdOnDrop": "",
@@ -201,17 +208,10 @@
     "tagIdOnClimb": "&788831357295263814"
   },
   {
-    "name": "TheDavados",
-    "allyCode": "383864533",
-    "tagIdOnDrop": "",
-    "userIcon": ":pirate_flag:",
-    "tagIdOnClimb": "&1102944537736904724"
-  },
-  {
     "name": "TONY2003PT",
     "allyCode": "735225255",
-    "tagIdOnDrop": "",
-    "userIcon": ":pirate_flag:",
-    "tagIdOnClimb": "&1129894973500821545"
+    "tagIdOnDrop": "322514055619280898",
+    "userIcon": ":flag_pt:",
+    "tagIdOnClimb": ""
   }
 ]
